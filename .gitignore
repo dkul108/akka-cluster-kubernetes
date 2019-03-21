@@ -8,3 +8,7 @@ target
 /RUNNING_PID
 out
 
+/foo/foo.iml
+foo/foo.iml
+
+project/build.properties
